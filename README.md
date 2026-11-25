@@ -16,3 +16,17 @@
 - [**Personal OS**](https://github.com/lse872317312010/personal-os)　把目标、行动和复盘记录保存在本地，换一个 AI Agent 也能接着上次的计划走。
 - [**Android Pocket NAS**](https://github.com/lse872317312010/android-pocket-nas)　尝试把闲置手机变成家庭网盘，在外面用另一台手机按需取文件。
 - [**QuantOs**](https://github.com/lse872317312010/QuantOs)　把市场判断和当时能看到的证据放在一起，方便事后检验自己的假设。
+
+### 集卡大全
+
+<details>
+  <summary><strong>📁 Panel</strong></summary>
+
+  <p>
+    <img width="338" alt="lse 的 GitHub 公开活动统计" src="https://github-readme-stats.vercel.app/api?username=lse872317312010&amp;theme=tokyonight&amp;show_icons=true">
+    <img width="256" alt="公开仓库中的常用编程语言及占比" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lse872317312010&amp;layout=compact&amp;theme=tokyonight">
+    <img width="240" alt="公开提交按北京时间划分的小时分布" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lse872317312010&amp;theme=tokyonight&amp;utcOffset=8">
+  </p>
+
+  <sub>语言占比按公开仓库的代码量统计，提交时段按北京时间（UTC+8）汇总。</sub>
+</details>
